@@ -40,3 +40,15 @@ Edit
 streamlit run app.py
 La aplicación se abrirá automáticamente en tu navegador web.
 
+### Despliegue en Render
+
+La aplicación ha sido desplegada en la plataforma Render, lo que permite acceder a ella desde cualquier navegador sin necesidad de instalar dependencias localmente.
+
+Para lograr esto:
+
+- Se creó un repositorio en GitHub con los archivos necesarios (`app.py`, `requirements.txt`, `vehicles_us.csv`, etc.).
+- Se configuró Render para hacer deploy automático desde GitHub.
+- Se incluyó `plotly` y otras dependencias en `requirements.txt` para asegurar la instalación correcta.
+- Se utilizó el siguiente comando de inicio en Render:
+  ```bash
+  streamlit run app.py
