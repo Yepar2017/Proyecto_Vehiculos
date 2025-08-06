@@ -51,11 +51,12 @@ Para lograr esto:
 - Se incluyó `plotly` y otras dependencias en `requirements.txt` para asegurar la instalación correcta.
 - Se utilizó el siguiente comando de inicio en Render:
   ```bash
-  streamlit run app.py
+  `streamlit run app.py`
 
-  ## Link y reflexion del proyecto
 
-  https://lecture-8-p2aw.onrender.com
+  ### Link y reflexion del proyecto
+
+  ``` [visita la app desplegada] (https://lecture-8-p2aw.onrender.com)
 
   este es el link para acceder a la app. 
   
