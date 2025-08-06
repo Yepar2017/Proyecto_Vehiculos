@@ -54,10 +54,8 @@ Para lograr esto:
   `streamlit run app.py`
 
 
-  ### Link y reflexion del proyecto
+###  Link y reflexión del proyecto
 
-  ``` [visita la app desplegada] (https://lecture-8-p2aw.onrender.com)
+Finalizando con algunas reflexiones acerca del proyecto realizado, debo decir que esto abre la mente a las tecnologías que diariamente vemos evolucionar para convertir la ciencia de datos en un verdadero arte. Esta disciplina permite realizar estudios, analizar patrones y, lo más importante, compartir los resultados con el público en general. No solo facilita la colaboración y el trabajo en equipo, sino que también permite transmitir al mundo los análisis más relevantes e interesantes que pueden contribuir en cientos de temas.
 
-  este es el link para acceder a la app. 
-  
-  Finalizando con algunas reflexiones acerca del proyecto realizado, debo decir que esto abre la mente a las tecnologias que diariamente vemos como evolucionan para hacer de la ciencia de datos un completo arte que permite hacer estudios, analizar patrones y lo mas importante que se pueda compartir con el publico en general, no solo para hacer colaboraciones y trabajar en equipo, sino para transmitir al mundo los analizis mas relevantes e interesantes que puedan contribuir en cientos de temas.
+ [Visita la app desplegada](https://lecture-8-p2aw.onrender.com)
